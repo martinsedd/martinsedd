@@ -47,7 +47,6 @@ personal systems.
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
@@ -129,20 +128,6 @@ src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=martinsedd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub 
-Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsedd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" 
-alt="Top Languages" />
-</p>
-
----
-
 ### 🌱 Currently Exploring
 
 - Reinforcement learning training infrastructure and simulation environments
@@ -157,7 +142,7 @@ alt="Top Languages" />
 <p>
 <a href="https://www.linkedin.com/in/martinsedd/" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:[your-email]" target="_blank"><img alt="Email" 
+<a href="mailto:[martins.edd04@gmail.com]" target="_blank"><img alt="Email" 
 src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/martinsedd" target="_blank"><img alt="GitHub" 
 src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
